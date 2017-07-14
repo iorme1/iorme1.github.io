@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl:  "" # the subpath of your site, e.g. /blog/
-url: "http://iorme1.github.io"
+url: "http://isaacorme.com"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
