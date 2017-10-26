@@ -1,9 +1,9 @@
 ---
   layout: post
-  title: Ego and Codewars
+  title:  Codewars
 ---
 
- I am now truly understanding the importance of letting go of my ego.  I learned this lesson  while attempting to solve a difficult challenge on codewars.  Spending 8 hours on a codewars challenge with virtually no breaks was pretty eye-opening.  I attempted a problem that I could not seem to tear myself away from.  At around 4 hours into my attempt of this challenge I was getting nowhere.  I allowed myself a short break but I immediately came right back to the challenge and spent another 4 hours googling and experimenting with the aid of 20+  stackoverflow web browser tabs.  After 8 hours I finally gave up and was left feeling frustrated and incompetent. I ended up solving the challenge the next day with a pretty hideous code solution but that is somewhat beside the point.
+ I am now understanding the importance of letting go of my ego.  I learned this lesson  while attempting to solve a difficult challenge on codewars.  Spending 8 hours on a codewars challenge with virtually no breaks was pretty eye-opening.  I attempted a problem that I could not seem to tear myself away from.  At around 4 hours into my attempt of this challenge I was getting nowhere.  I allowed myself a short break but I immediately came right back to the challenge and spent another 4 hours googling and experimenting with the aid of 20+  stackoverflow web browser tabs.  After 8 hours I finally gave up and was left feeling frustrated and incompetent. I ended up solving the challenge the next day with a pretty hideous code solution but that is somewhat beside the point.
 
 Although I had gained some great practice in experimentation and googling, I came to the realization that my ego was getting in the way of my learning process.  I needed to let go of the frustration of not being able to figure out a coding challenge and just move on to something else.  After a few hours into this challenge I knew in the back of mind that this particular problem was above my current skill level.  My stubbornness would not allow me to stop until this was solved. For some reason I needed to prove to myself I could finish this problem.  Little did I know that simply moving on to another project could release me from this pressure and allow me to channel my learning efforts somewhere more productive.
 
