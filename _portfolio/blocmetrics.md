@@ -6,4 +6,4 @@ thumbnail-path: "https://dwfoh96rza0z7.cloudfront.net/wp/wp-content/uploads/2016
 short-description: Analytics Service
 ---
 
-<a href="https://quiet-everglades-58368.herokuapp.com/">BlocMetrics</a>
+Link to app: <a href="https://quiet-everglades-58368.herokuapp.com/">BlocMetrics</a>

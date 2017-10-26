@@ -6,4 +6,4 @@ thumbnail-path: "https://i.kinja-img.com/gawker-media/image/upload/s--X-PnQthV--
 short-description: Reddit clone
 ---
 
-<a href="https://pure-reef-70329.herokuapp.com/">Bloccit</a>
+Link to app: <a href="https://pure-reef-70329.herokuapp.com/">Bloccit</a>

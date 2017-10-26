@@ -6,4 +6,4 @@ thumbnail-path: "https://tr1.cbsistatic.com/hub/i/2014/02/20/af07fab6-499f-456f-
 short-description: To-do list app
 ---
 
-<a href="http://shielded-shelf-34992.herokuapp.com/">Blocitoff</a>
+Link to app: <a href="http://shielded-shelf-34992.herokuapp.com/">Blocitoff</a>
